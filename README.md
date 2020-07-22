@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World! 🤙 Welcome to my Github!
 
 <!--
 **MinuraIddamalgoda/MinuraIddamalgoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer in Melbourne, Australia who's interested in all things dev, sys admin, and ops! 
+
+### 🔭 I’m currently working on:
+I'm finishing off the final semester of my degree, where I'll be studying; Computing Theory, Artificial Engineering, Operating Systems Principles, and Soft. Eng. Processes and Tools! So my personal projects will have to be put on the backburner as I (try to) balance work and uni.
