@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 My job title is technically "Software Engineer" but "doer of things via a computer" is a better description. I can't help but get stuck into all things analysis, dev, test, sys admin, and ops!
 
 ### 🔭 Currently working on:
-I'm finishing off the final semester of my degree, where I'll be studying; Computing Theory, Artificial Engineering, Operating Systems Principles, and Soft. Eng. Processes and Tools! So my personal projects will have to be put on the backburner as I (try to) balance work and uni.
+I'm finishing off the final semester of my degree, where I'll be studying; Computing Theory, Artificial Intelligence, Operating Systems Principles, and Soft. Eng. Processes and Tools! So my personal projects will have to be put on the backburner as I (try to) balance work and uni.
